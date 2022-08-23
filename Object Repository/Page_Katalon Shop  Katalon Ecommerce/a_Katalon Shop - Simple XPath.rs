@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Katalon Shop - Simple XPath</name>
+   <tag></tag>
+   <elementGuidId>1898ac9d-5d76-4f91-9f14-a5aa92c41d6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.site-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div[1]/header/div/p[1]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://cms.demo.katalon.com/' and (text() = 'Katalon Shop' or . = 'Katalon Shop')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c2bae37b-f772-4544-8b2c-d5a1a57985fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/</value>
+      <webElementGuid>b1ac74d7-bdc3-47cd-9a2d-1395394b8ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>home</value>
+      <webElementGuid>7fd0c699-1062-418e-8997-11b84b589395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Shop</value>
+      <webElementGuid>097958b0-01ae-4eea-b52c-cabb618b41a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/div[@class=&quot;site-branding&quot;]/p[@class=&quot;site-title&quot;]/a[1]</value>
+      <webElementGuid>81092324-3b39-4c70-acd9-812587b178b1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
