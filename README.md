@@ -32,11 +32,16 @@ Web browser:
 ### Test Strategy
 
 1. Run test suite collection *Test Suites/Spy Result VS Simple XPath Collection*.
+
     Execution Mod:
-        - Parallel
-        - Max concurrent instances: 6
+
+    - Parallel
+    - Max concurrent instances: 6
+
 2. Run #1 few times
-3. Analyze and view performance comparison in jupiter notebook file [analysis/test-result.ipynb](./analysis/test-result.ipynb)
+
+3. Analyze and view performance comparison in jupiter notebook file *[analysis/test-result.ipynb](./analysis/test-result.ipynb)*
+
     Related: [Test Result Analysis's README](./analysis/README.md)
 
 ### Risk
